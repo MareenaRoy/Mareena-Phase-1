@@ -77,13 +77,14 @@ body{
         flex-direction: column;
         align-items: center;
     }
-}
+
 
     .product-container{
             flex-direction: column;
             align-items: center;
         
     }
+}
 /*contact.css*/
 .box{
     width:300px;
